@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkerlendthune_com=globalThis.webpackChunkerlendthune_com||[]).push([[585],{1134(e){e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Polpriser","slug":"/category/polpriser","permalink":"/docs/category/polpriser","sidebar":"productsSidebar","navigation":{"next":{"title":"Om polpriser","permalink":"/docs/polpriser/ompolpriser"}}}}')}}]);
